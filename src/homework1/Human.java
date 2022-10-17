@@ -29,5 +29,6 @@ public class Human {
         } else {
             this.job = job;
         }
+
     }
 }

@@ -42,5 +42,6 @@ public class Main {
         // Задание 2.
         Car hyundaiAvante = new Car(null, "Avante", 1.6, "оранжевый", 2016, "Южной Корее");
         System.out.println("Бренд автомобиля — " + hyundaiAvante.brand + ", модель — " + hyundaiAvante.model + ", сборка в " + hyundaiAvante.productionCountry + ", цвет кузова — " + hyundaiAvante.color + ", объем двигателя — " + hyundaiAvante.engineVolume + " л, год выпуска — " + hyundaiAvante.productionYear + ".");
+
     }
 }
